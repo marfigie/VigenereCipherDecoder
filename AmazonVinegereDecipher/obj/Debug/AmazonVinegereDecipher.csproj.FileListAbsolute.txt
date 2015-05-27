@@ -1,0 +1,6 @@
+D:\Projectas\C#\MessingWithCode\AmazonVinegereDecipher\AmazonVinegereDecipher\obj\Debug\AmazonVinegereDecipher.csprojResolveAssemblyReference.cache
+D:\Projectas\C#\MessingWithCode\AmazonVinegereDecipher\AmazonVinegereDecipher\bin\Debug\AmazonVigenereDecipher.exe.config
+D:\Projectas\C#\MessingWithCode\AmazonVinegereDecipher\AmazonVinegereDecipher\bin\Debug\AmazonVigenereDecipher.exe
+D:\Projectas\C#\MessingWithCode\AmazonVinegereDecipher\AmazonVinegereDecipher\bin\Debug\AmazonVigenereDecipher.pdb
+D:\Projectas\C#\MessingWithCode\AmazonVinegereDecipher\AmazonVinegereDecipher\obj\Debug\AmazonVigenereDecipher.exe
+D:\Projectas\C#\MessingWithCode\AmazonVinegereDecipher\AmazonVinegereDecipher\obj\Debug\AmazonVigenereDecipher.pdb
